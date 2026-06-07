@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Telegram Channel Live Subscriber Counting Bot
+  name: Telegram_Live_Subscriber_Count version: 1.0 type: Repository author: VarshuAi description: >   Telegram Channel Live Subscriber Counting Bot primary_tech: Python
 primary_tech: Python
 ```
 
